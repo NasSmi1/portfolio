@@ -1,5 +1,5 @@
 body {
-    background: lawngreen;
+    background: grey
 } 
  
 #blue { 
@@ -7,7 +7,7 @@ body {
 } 
  
 #red { 
-    color: red
+    color: blue
 }
 #p1 { 
    float: right; 
