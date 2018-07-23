@@ -7,8 +7,9 @@ body {
 } 
  
 #red { 
-    color: white
+    color: white;
 }
+
 #p1 {  
 font-family: 'Gaegu', cursive;
    float: right; 
@@ -32,6 +33,7 @@ img {
 p{
     animation-name: appear;
     animation-duration: 3s;
+    font-size: 25px;
 }
 #one{
     opacity: 0;
