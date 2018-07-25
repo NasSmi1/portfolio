@@ -2,6 +2,7 @@ body {
     background: grey
 } 
  
+/* TODO: you can combine these # id styles in to one . class style, since they are the same. */
 #blue { 
     color:white
 } 
