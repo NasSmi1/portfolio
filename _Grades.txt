@@ -1,0 +1,39 @@
+Portfolio final grade: 98
+
+Comments:  You really put a lot of effort in to completing the assignments even after they were late - You really lived up to the SMASH value of rigor in completing this.
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 90
+(50% of overall grade)
+
+Points deducted for these items:
+    -1 Missing Contact link on About page.
+    -3 Google fonts link missing on 3 pages.
+    -1 Extra file left in the project (RTF resume)
+    -5 <h1> tag in <head> tag on About page.
+
+########
+
+Design and Accessibility:  Does incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 100
+(25% of overall grade)
+
+Points deducted for these items:
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 110 
+(25% of overall grade)
+
+Points deducted for these items:
+    -5  Use of Opacity to hide header is confusing and impairs accessibility on the page.
+
+Bonus points awarded for these items:
+    +10 Using both animation and transitions
+    +5  Proper use of CSS properties not covered in class.
